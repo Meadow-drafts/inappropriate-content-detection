@@ -2,7 +2,7 @@
 
 ![Repository Banner](repository_banner.png)
 
-Welcome to the Inappropriate Content Detection Repository! This repository contains a Python-based solution for detecting whether an uploaded image contains inappropriate or sensitive content. The system assigns a probability score to indicate the likelihood of the image belonging to various categories. The content of the image is assessed for appropriateness, and the results are provided to help users make informed decisions based on the content of the image.
+This repository contains a Python-based solution for detecting whether an uploaded image contains inappropriate or sensitive content. The system assigns a probability score to indicate the likelihood of the image belonging to various categories. The content of the image is assessed for appropriateness, and the results are provided to help users make informed decisions based on the content of the image.
 
 ## Table of Contents
 
@@ -11,9 +11,6 @@ Welcome to the Inappropriate Content Detection Repository! This repository conta
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
