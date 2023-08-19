@@ -53,10 +53,3 @@ pip install -r requirements.txt
 Run the detect_inappropriate_content.py script to use the inappropriate content detection system. 
 The script takes the path to an image file or an HTTPS link to an image as a command-line argument. 
 It processes the image and displays the probability scores for different categories of content.
-
-```bash
-python detect_inappropriate_content.py --image_path path/to/your/image.jpg
-```
-
-Replace path/to/your/image.jpg with the actual path to your image file or the HTTPS link.
-
